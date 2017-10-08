@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Welcome to Jekyll!</title>
-  <meta name="description" content="#H1 The Idiot’s Guide to Github Pages with Jekyll for custom domains jekyll new &amp;lt;blogname&amp;gt;. inside that folder, create a folder “docs” jekyll build –de...">
+  <meta name="description" content="#H1 The Idiot’s Guide to Github Pages with Jekyll for custom domains jekyll new &amp;lt;blogname&amp;gt;pacda inside that folder, create a folder “docs” initiate it ...">
 
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="canonical" href="/tech/github/jekyll/blog/2017/10/08/github-pages-and-jekyll.html">
@@ -80,9 +80,14 @@
     <p>#H1
 The Idiot’s Guide to Github Pages with Jekyll for custom domains</p>
 <ol>
-  <li>jekyll new &lt;blogname&gt;. inside that folder, create a folder “docs”</li>
-  <li>jekyll build –destination ./docs –watch</li>
+  <li>jekyll new &lt;blogname&gt;pacda inside that folder, create a folder “docs”</li>
   <li>initiate it as a repository</li>
+  <li>in _config.yml add:
+<code>
+ exclude: - [CNAME]
+ keep_files: [CNAME]
+</code></li>
+  <li>jekyll build –destination ./docs –watch</li>
   <li>add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.</li>
   <li>in Github settings, point github pages to docs</li>
 </ol>

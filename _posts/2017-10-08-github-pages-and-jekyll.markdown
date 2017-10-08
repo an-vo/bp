@@ -6,11 +6,16 @@ categories: tech github jekyll blog
 ---
 #H1
 The Idiot's Guide to Github Pages with Jekyll for custom domains
-1. jekyll new \<blogname\>. inside that folder, create a folder "docs"
-2. jekyll build --destination ./docs --watch
-3. initiate it as a repository 
-4. add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.
-5. in Github settings, point github pages to docs
+1. jekyll new \<blogname\>pacda inside that folder, create a folder "docs"
+2. initiate it as a repository 
+3. in _config.yml add:
+<code>
+	exclude: - [CNAME]
+	keep_files: [CNAME]
+</code>
+4. jekyll build --destination ./docs --watch
+5. add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.
+6. in Github settings, point github pages to docs
 
 
 {% highlight ruby %}

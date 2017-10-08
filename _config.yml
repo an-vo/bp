@@ -32,5 +32,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - docs/CNAME
-keep_files: docs/CNAME
+  - [CNAME]
+keep_files: [CNAME]
