@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The Idiot's Guide to Github Pages with Jekyll for custom domains"
 date:   2017-10-08 15:12:29 +0300
 categories: tech github jekyll blog
 ---
