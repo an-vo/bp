@@ -1,8 +1,298 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="brainspired.org/feed.xml" rel="self" type="application/atom+xml" /><link href="brainspired.org/" rel="alternate" type="text/html" /><updated>2017-10-08T21:20:40+03:00</updated><id>brainspired.org/</id><title type="html">Brainspired</title><subtitle>Human Sciences, Humanities, Health, Tech Book summaries, Articles, personal stuff and whatever else comes to my mind
-</subtitle><entry><title type="html">The Idiot’s Guide to Github Pages with Jekyll for custom domains</title><link href="brainspired.org/tech/github/jekyll/blog/2017/10/08/github-pages-and-jekyll.html" rel="alternate" type="text/html" title="The Idiot's Guide to Github Pages with Jekyll for custom domains" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/tech/github/jekyll/blog/2017/10/08/github-pages-and-jekyll</id><content type="html" xml:base="brainspired.org/tech/github/jekyll/blog/2017/10/08/github-pages-and-jekyll.html">&lt;p&gt;#H1
-The Idiot’s Guide to Github Pages with Jekyll for custom domains&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;jekyll new &amp;lt;blogname&amp;gt;pacda inside that folder, create a folder “docs”&lt;/li&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="brainspired.org/feed.xml" rel="self" type="application/atom+xml" /><link href="brainspired.org/" rel="alternate" type="text/html" /><updated>2017-10-29T22:31:17+02:00</updated><id>brainspired.org/</id><title type="html">Brainspired</title><subtitle>Human Sciences, Humanities, Health, Tech Book summaries, Articles, personal stuff and whatever else comes to my mind
+</subtitle><entry><title type="html">The Idiot Brain by Dean Burnett</title><link href="brainspired.org/summary/2017/10/08/the-idiot-brain.html" rel="alternate" type="text/html" title="The Idiot Brain by Dean Burnett" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/summary/2017/10/08/the-idiot-brain</id><content type="html" xml:base="brainspired.org/summary/2017/10/08/the-idiot-brain.html">&lt;h3 class=&quot;graf graf--h3&quot;&gt;Is anger really bad? How do we become smarter? Why you can't trust group decisions?&lt;/h3&gt;
+&lt;h3 class=&quot;graf graf--h3&quot;&gt;Understanding how the brain works will make you more able to use it in the direction you want.&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;#mind_controls&quot;&gt;Mind controls&lt;/a&gt;
+&lt;a href=&quot;#memory&quot;&gt;Memory&lt;/a&gt;
+&lt;a href=&quot;#fear&quot;&gt;Fear&lt;/a&gt;
+&lt;a href=&quot;#intelligence&quot;&gt;Intelligence&lt;/a&gt;
+&lt;a href=&quot;#senses&quot;&gt;Senses&lt;/a&gt;
+&lt;a href=&quot;#personality&quot;&gt;Personality&lt;/a&gt;
+&lt;a href=&quot;#influence&quot;&gt;Group influence&lt;/a&gt;
+&lt;a href=&quot;#issues&quot;&gt;Mental health problems&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;!--more--&gt;
+&lt;h1 id=&quot;mind_controls&quot;&gt;1.  mind controls&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151703&quot;&gt;&lt;/a&gt;We are programmed to walk&lt;/h2&gt;
+&lt;p&gt;There are nerve clusters in our spine that control our locomotion without any conscious involvement. This may explain why &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;an unconscious person can still wander about&lt;/span&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our bodies are ideally suited to regular ambulation.&lt;/p&gt;
+
+&lt;p&gt;Sitting too long in airplanes can even be fatal, due to deep vein thrombosis.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151704&quot;&gt;&lt;/a&gt;Why does movement sometimes make us throw up?&lt;/h2&gt;
+&lt;p&gt;One theory is that the brain interprets the situation as poisoning. Human motion (walking, running, crawling) produces a specific set of signals (up-down rocking motion, general velocity and the external forces such as the movement of air passing you and your shifting internal fluids that this produces). But when you are travelling by car or plane, you only get part of these signals (the shifting fluids in your ear). Also, you cannot see yourself moving. The image of the world passing by can also mean it is moving, not you. The brain is confused. Poison is the only thing that can affect your inner workings so bad so the brain thinks he is poisoned and throws up.&lt;/p&gt;
+&lt;h2&gt; The stomach is saying no but the brain is saying ‘let’s go’&lt;/h2&gt;
+&lt;p&gt;Your stomach creates hunger hormones when it detects lack of nutrients. Also, if you have more fat stores, you secrete more appetite-suppressing hormone (leptin). Then, how come is it so hard for obese people to lose weight?&lt;/p&gt;
+
+&lt;p&gt;If you have regular eating hours, the brain tells the stomach it’s time to eat and thus the stomach creates appetite, even if it doesn’t detect an actual lack of food.&lt;/p&gt;
+
+&lt;p&gt;The opposite is also true: even if the stomach has too much food, the brain can decide the benefit of the desert overcomes this impediment.&lt;/p&gt;
+
+&lt;p&gt;Once your brain and body adapt to a certain caloric intake, it can be very hard to reduce it.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151707&quot;&gt;&lt;/a&gt;Sleep is not really about resting&lt;/h2&gt;
+&lt;p&gt;This is proven by the fact that &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;sleep has been observed in hibernating animals&lt;/span&gt;&lt;/strong&gt;. Hibernation means that the metabolism and temperature drop much lower than during sleep (when the metabolic rate is lowered with only about 5-10 percent), it lasts longer, it’s actually closer to a coma.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we sleep almost the same amount of time whether we’ve spent the day “hauling bricks or sitting in our pyjamas watching cartoons”.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151708&quot;&gt;&lt;/a&gt;Sleepwalk possibly linked to underdevelopment in the central nervous system&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;strong&gt;During REM sleep we usually cannot move due to a motor paralysis&lt;/strong&gt;&lt;/span&gt; induced by the brain so that we don’t act our dreams. Sleepwalking results from a disorder of this process. It seems to be linked to an underdevelopment in the central nervous systems which is why it is more common in children or in the influence of stress, alcohol, medication and other disturbers.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151709&quot;&gt;&lt;/a&gt;Why do we suddenly twitch while falling asleep?&lt;/h2&gt;
+&lt;p&gt;This occurs more in children and gradually declines as we age. Some theories say that it’s an evolutionary holdover from a time when we slept in trees and sudden tilting meant we were about to fall out, so the brain panics.&lt;strong&gt; &lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;memory&quot;&gt;2. memory&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151710&quot;&gt;&lt;/a&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;You can feel more hungry not depending on how much you actually ate, but depending on how much you remember you have eaten&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Some patients with amnesia feel constantly hungry, even after eating.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151711&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;If you want to see if something entered your long-term memory, try to recall it after one minute&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;This is the maximum amount of time something stays in the short-term memory (stm). &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Also, the average short memory can hold only 4 items&lt;/span&gt;&lt;/strong&gt; (for example 4 words, or 4 sentences). This can lead to the “Why did I just come in here” scenario, when more items get into your stm and you forgot about the trigger.&lt;/p&gt;
+
+&lt;p&gt;Long term memories are either voluntary (and here rehearsing is necessary) or involuntary.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151712&quot;&gt;&lt;/a&gt;Short term memory is ..&quot;like writing a list in the foam of a cappuccino&quot;&lt;/h2&gt;
+&lt;p&gt;While long-term memories are stored in the hippocampus in the temporal lobe, short term memories are stored… in specific patterns of activity in neurons.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151713&quot;&gt;&lt;/a&gt;How can something as painful and debilitating as the post-traumatic syndrome happen?&lt;/h2&gt;
+&lt;p&gt;Horrible memories keep reappearing, disrupting you at unexpected moments. You cannot sleep well and this makes you even more stressed and prone to anxiety. It’s a vicious circle which seems to be against nature. Freud &lt;sup&gt;1&lt;/sup&gt; even gave it as an example of the Death instinct. Dean Burnett explains that the memory is so vivid because at the moment of the accident, the rise in adrenaline heightens senses and awareness. This can have an &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;evolutionary purpose - to make the victim remember so well what is dangerous in order to avoid it in the future.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151714&quot;&gt;&lt;/a&gt;Sometimes, a glass of wine makes you remember better&lt;/h2&gt;
+&lt;p&gt;Generally alcohol disrupts both long and short term memory. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;But because we retrieve information easier in the same context that we stored it, if you learned something while drinking wine, you will also remember it better during the same activity.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151715&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;You can make up memories if a figure you trust states them as facts&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;If asked in court by a lawyer “where in the shop did the criminal stay?” the witness will have a tendency to reply something like “near the counter” even if he actually only remembered the criminal outside the shop, in the parking.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151716&quot;&gt;&lt;/a&gt;Someone can think that they don't know how to play the piano but then play it proficiently&lt;/h2&gt;
+&lt;p&gt;This is a condition called hippocampal amnesia in which people can’t remember events from long-term memory but because motor skills are stored in other areas of the brain than the hippocampus, they can still access them.&lt;/p&gt;
+&lt;h2&gt;Memory is ego-biased&lt;/h2&gt;
+&lt;p&gt;It is harder to remember people of another race, we tend to embellish the reality so that we come out better, we remember more easily things we said rather than things others said, we remember past events as being predictable even if we couldn’t have predicted them at the time.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151717&quot;&gt;&lt;/a&gt;It is extremely rare to &lt;u&gt;only&lt;/u&gt; lose one's memories after a head injury, as it is shown in the movies.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Memories are spread throughout the brain and if they are lost, it means a lot of the brain is damaged.&lt;/span&gt;&lt;/strong&gt; Furthermore, the regions in the frontal lobe responsible with recollection also control other important processes such as decision making, reasoning etc. so it is hard for only memories to be lost.&lt;/p&gt;
+
+&lt;p&gt;People do experience retrograde amnesia (not being able to access memories formed before a certain time point) but this is usually transient. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;More common is anterograde (incapacity of forming new memories) amnesia, as the agent most important for the formation of new memories, the hippocampus, is easily disrupted.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&quot;fear&quot;&gt;3. fear&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151718&quot;&gt;&lt;/a&gt;How can there be such a thing as the fear of cheese (turophobia)? Or of long words (potomonstroesquipedaliophobia)?&lt;/h2&gt;
+&lt;p&gt;Because associative learning. If you were eating cheese when you were sacked, next time when you see cheese you might have a fear response.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151719&quot;&gt;&lt;/a&gt;Why doesn’t a phobia go away even when repeatedly seeing that it doesn’t cause any harm?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;The fear response caused by the phobia (adrenalin, tension, panic) justifies it.&lt;/span&gt; &lt;/strong&gt;The brain wants to avoid the source of this draining. An extreme case is the panic attack, where there is no stimulus active which by elimination would calm the person. The causes of the syndrome are unknown, but the theories are that it might be due to past trauma, genetic disorders or a non-adequate balance of neurotransmitters.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151720&quot;&gt;&lt;/a&gt;Agoraphobia is not the fear of open spaces&lt;/h2&gt;
+&lt;p&gt;It actually is fear of situations where escape or help would be absent. Severe cases mean people not able to leave their home, which led to the misconception about the meaning of the word.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151721&quot;&gt;&lt;/a&gt;You are afraid you will offend others? Your parents might be at blame. This doesn’t mean they should have not prevented you at all.&lt;/h2&gt;
+&lt;p&gt;Overprotection is also harmful. When a child is no longer protected by his parents and does something which has a negative impact it will hurt him more and it will make him fear it more because it will come more unexpected.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151722&quot;&gt;&lt;/a&gt;The brain’s tendency is to use other humans to calibrate how we see the world and our position in it.&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;This, combined with the predilection of the brain to fear, means social phobias are the most common type of phobias.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151723&quot;&gt;&lt;/a&gt;Why do people like being scared?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;The mesolimbic reward pathway gives you pleasure when you eat sweets and…when you surpass a threat.&lt;/span&gt; &lt;/strong&gt;The bigger the risk, the more intense the pleasure. Surpassing a threat can mean the end of a horror movie but the more real the better, so skydiving – beating death – beats horror movies. Also, the mesolimbic reward pathway has special connections to the amygdala, attaching strong emotional response to the pleasurable experience, and to the hippocampus, emphasizing memories related to the threat and reward. Adrenalin makes everything feel enhanced.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151724&quot;&gt;&lt;/a&gt;People with a marked sensation-seeking behaviour have an enlarged anterior hippocampus, the part of the brain thought to be responsible with recognizing novelty.&lt;/h2&gt;
+&lt;p&gt;Novelty includes a risk and the anticipation of overcoming it stimulates the brain to acquire it. That a personality trait is so visibly reflected at a physical level is remarkable as it doesn’t happen so often as the magazines want to make it appear.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151725&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Being criticised brings in us a strong physical reaction: cortisol levels rise and linger for even more than one hour and the experience is vividly imprinted in memory&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Compare this with oxytocin, which stays in the blood only for about 5 minutes. Also, higher hormone levels mean enhanced memory so a bad event will be remembered more vividly than a pleasurable one. So, before you criticize someone again, think twice.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151726&quot;&gt;&lt;/a&gt;Why does negging – a tactic used by pick-up artists to say something that sounds like a compliment but is actually meant to criticise and to insult – work?&lt;/h2&gt;
+&lt;p&gt;“I don’t normally date girls as tall as you, but you seem cool” one might say. &lt;span style=&quot;color: #658508;&quot;&gt;&lt;strong&gt;Criticism is so powerful that it can really make that person doubt herself and fall into the predator’s claws.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;intelligence&quot;&gt;4.  Intelligence&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151727&quot;&gt;&lt;/a&gt;Why can’t I learn languages so quick anymore but I don’t forget the ones that I learned and practiced for a few years?&lt;/h2&gt;
+&lt;p&gt;The ability to learn and to solve new problems based on known facts (fluid intelligence) is processed in a different region of the brain (prefrontal cortex) than known facts (crystallized intelligence), which, being memories, are widely distributed throughout the brain. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;The prefrontal cortex atrophies more with age than most other brain regions as the actions of problem solving are quite dynamic and thus more likely to result in actual wear (free radicals).&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151728&quot;&gt;&lt;/a&gt;More knowledgeable people often underestimate their abilities and the opposite is also true&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;strong&gt;Important issues such as climate change or vaccination are dominated by the rantings of those who have uninformed personal opinions rather than the explanations of the experts. The smarter the person is, the less confident he is in his views and thus the less trusted he is. The opposite is also true: the less expert a person, the more confident he is.&lt;/strong&gt; &lt;/span&gt;This may happen for more reasons:&lt;/p&gt;
+
+&lt;p&gt;1) The other people see intelligent people as a threat because they can’t be so easily read so intelligent people learn to present themselves in humble ways.&lt;/p&gt;
+
+&lt;p&gt;2) Intelligent people are generally used to learning new things and thus more likely to be aware that they don’t know everything and that there are many things which could be discovered to change the general view on things&lt;/p&gt;
+
+&lt;p&gt;3) Intelligent people are many times surrounded by similarly intelligent people who will faster spot an issue with their ideas&lt;/p&gt;
+
+&lt;p&gt;4) Less intelligent people many times might lack the ability to recognize that they are bad at something. Accuracy in self-appraisal correlated in a small-scale experiments with the volume of tissue in the right ventromedial region of the prefrontal cortex.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151730&quot;&gt;&lt;/a&gt;If the subject is doing a memory task, however good his memory is, the areas of the brain responsible for memory processing will be more active than usual. But if he is doing a fluid intelligence task and he is very intelligent, the area responsible for fluid intelligence (the prefrontal cortex) &lt;span style=&quot;text-decoration: underline;&quot;&gt;is not even used&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;This is, of course, very good for energy consumption. So intelligent people need less energy to solve problems. Also, it is to be noted that more regions are involved rather than just one, but because the connections between them (made by the white matter, which is 50% of our brain) are more efficient and organized, less energy is needed overall. So, white matter is also very important.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151731&quot;&gt;&lt;/a&gt;How do we become more intelligent?&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151732&quot;&gt;&lt;/a&gt;Through education and learning we increase our crystallized intelligence so applying your fluid intelligence to as many scenarios as possible will improve matters here.&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151733&quot;&gt;&lt;/a&gt;There is some evidence to suggest that learning leads to the white matter involved being enhanced, by increasing the properties of the myelin around the nerves.&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151735&quot;&gt;&lt;/a&gt;If treated as being smarter than they are, kids have the tendency to show increased academic performance.&lt;/span&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;span style=&quot;color: #658508;&quot;&gt;People who are told that intelligence is fixed perform worse on tests. If they are told it’s variable, they perform better.&lt;/span&gt;&lt;/h3&gt;
+&lt;h2&gt;Limits of getting smarter&lt;/h2&gt;
+&lt;p&gt;In general, learning something does not make you smarter overall but just increases your ability in that certain area. Taxi drivers will excel in spatial orientation but this doesn’t improve their abilities in math or languages.&lt;/p&gt;
+
+&lt;p&gt;(Dean Burnett says the same holds for musicians, but there are studies which claim music is special in this regard.)&lt;/p&gt;
+
+&lt;p&gt;By the time we hit our mid-twenties, our brains are essentially fully developed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Taking drugs to improve focus can backfire, exhausting your resources.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151734&quot;&gt;&lt;/a&gt;People might seem less intelligent because they don’t talk about abstract things, but their reason might be not that they can’t but that they don’t find it useful. Our western culture puts an emphasis on abstract thinking that might annoy more practical people.&lt;/h2&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151736&quot;&gt;&lt;/a&gt;The average IQ score of tall people is slightly higher than that of short people&lt;/h2&gt;
+&lt;p&gt;One theory is that there might be a gene that influences both.&lt;/p&gt;
+
+&lt;p&gt;Another theory is that both are sexually attractive traits. However, very tall women are many times seen as intimidating, and the same is valid for very intelligent people.&lt;/p&gt;
+
+&lt;p&gt;Other scientists think they are correlated because both are influenced by health and nutrition.&lt;/p&gt;
+
+&lt;p&gt;People of higher intelligence have more grey matter in areas such as the prefrontal cortex and the hippocampus. The size of the brain can also be an advantage as it offers more resources for these areas to develop and taller people have larger brains.&lt;/p&gt;
+
+&lt;p&gt;Maybe another reason is that tall people are treated as they are older and more knowledgeable and they also start to conform to this view.&lt;/p&gt;
+&lt;h1 id=&quot;senses&quot;&gt;5. Senses&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151737&quot;&gt;&lt;/a&gt;Neuroscientists believe there are more than five senses&lt;/h2&gt;
+&lt;p&gt;Those are the senses dealing with interior:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;prioperception (the sense of the physical arrangement of the body and limbs)&lt;/li&gt;
+	&lt;li&gt;balance&lt;/li&gt;
+	&lt;li&gt;appetite (nutrient levels in our blood)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151738&quot;&gt;&lt;/a&gt;3 percent of the human genome codes for olfactory receptor types&lt;/h2&gt;
+&lt;p&gt;Smell is the first sense to develop. People can smell an amazing number of 1 trillion odors. The olfactory nerve is number one from the facial nerves (2 is the optic one). The olfactory neurons are one of the few types of human neurons that can regenerate (they are directly exposed to the outside environment, which tends to degrade fragile nerve cells).&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;a name=&quot;_Toc490151739&quot;&gt;&lt;/a&gt;Certain smells are particularly strongly associated with vivid and emotional memories&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;That’s because the olphactory bulb is part of the limbic system, just like the memory-processing regions, and has active links to the hippocampus and the amygdala.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;There have been experiments where blindfolded and nose-plugged people couldn’t distinguish onion, apples and potatoes by taste alone.&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Thus many times we might think we use our taste but actually smell saves the day.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151741&quot;&gt;&lt;/a&gt;Can wine tasters really detect subtle differences between wines?&lt;/h2&gt;
+&lt;p&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;strong&gt;Actually in repeated experiments wine tasters couldn’t recognize the vintage wine from a mass-produced cheap slop or red wine from white one with red food dye in it.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;People&lt;a name=&quot;_Toc490151742&quot;&gt;&lt;/a&gt; with very sensitive hearing also show a finer sense of touch&lt;/h2&gt;
+&lt;p&gt;What do hearing and touch have in common? As smell and taste are chemical senses, hearing and touch are both mechanical senses, meaning they are activated by pressure or physical force.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151743&quot;&gt;&lt;/a&gt;The sensation of hearing voices, or music (musical ear syndrome), or loud booms (exploding head syndrome) come not from the brain but from the hearing system.&lt;/h2&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151744&quot;&gt;&lt;/a&gt;Many neuroscientists argue that the retina is part of the brain&lt;/h2&gt;
+&lt;p&gt;It develops from the same tissue and is directly linked to it.&lt;/p&gt;
+&lt;h1 id=&quot;personality&quot;&gt;6. Personality&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151745&quot;&gt;&lt;/a&gt;The Big Five model has the best scientific support and correlation with physical variations of the brain and with genetics&lt;/h2&gt;
+&lt;p&gt;Some studies suggest that neurotic people have smaller than average dorsomedial prefrontal cortexes and left medial temporal lobes including the posterior hippocampus (regions involved in decision-making, learning and memory) but bigger midcingulate gyruses (critical thinking and response to pain) &lt;sup&gt;2&lt;/sup&gt;. This would suggest that they are less able to control or suppress paranoid predictions and learn that they are unreliable.&lt;/p&gt;
+
+&lt;p&gt;Extroverts showed increased activity in the orbitofrontal cortex, which is linked to decision-making so perhaps because of this raised activity in the decision-making regions, they are compelled to be more active and make decisions more often.&lt;/p&gt;
+
+&lt;p&gt;There are also studies showing a genetic heritability of personality of 40-60%.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;MBTI is hoax&lt;/span&gt;&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is worrisome that some companies make decisions regarding hiring or treating employees based on the MBTI model. It is not scientifically approved and hard to make sure answers are very honest.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151746&quot;&gt;&lt;/a&gt;Why anger can be a good thing&lt;/h2&gt;
+&lt;p&gt;Anger is a state of emotional and physiological arousal, typically experienced when sine sort of boundary has been violated. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;But its physical effect is opposite to that of anxiety, in that that it lowers cortisol by activating the anterior cingulate cortex in the middle of the brain in the left hemisphere, associated with producing motivation and responsive behavior. Dealing with the threat reduces cortisol on the moment and also in the long run.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Anger is even good in negotiations,&lt;/span&gt;&lt;/strong&gt; even if both parties are showing it, as there’s more motivation to obtain something, greater optimism and an implied honesty.&lt;/p&gt;
+
+&lt;p&gt;Angry people tend to have their needs addressed before people who make polite requests as the others don’t like it when people are angry because they present a possible threat and also shows that genuinely aggrieved that person.&lt;/p&gt;
+&lt;h2&gt;Downsides to anger&lt;/h2&gt;
+&lt;p&gt;There are of course many downsides to anger. It can make you ruminate because it will stay vivid in your memory due to the participation of the amygdala and the hippocampus in the threat-detection system.&lt;/p&gt;
+
+&lt;p&gt;Anger can be bad if you minimize a danger, or get angry about things you cannot solve.&lt;/p&gt;
+&lt;h2&gt;Intrinsic motivation is the way to go&lt;/h2&gt;
+&lt;p&gt;Autonomy, competency and recognition is what motivates us from the inside. They are more intense than extrinsic motivations. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Do not promise gifts to children for drawing, just give them materials and autonomy, they will be more motivated.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;The second best  way to motivate a person to do something is to leave it incomplete and restrict their options for resolving it.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151747&quot;&gt;&lt;/a&gt;What feature of the brain does humor rely on?&lt;/h2&gt;
+&lt;p&gt;Humour results when our expectations are violated. Unattended donkeys seldom walk into bars. The brain isn’t good at uncertainty and dislikes inconsistency. When those, laughter appears as an approval.&lt;/p&gt;
+&lt;h1 id=&quot;influence&quot;&gt;7. How the brain is influenced by other people&lt;/h1&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151748&quot;&gt;&lt;/a&gt;Language is a fundamental function of the brain - we don't just pick it from the other people&lt;/h2&gt;
+&lt;p&gt;It was believed that there are mainly two areas connected to language:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Broca’s area – responsible for thinking of something to say and putting the words in the correct order.&lt;/li&gt;
+	&lt;li&gt;Wernicke’s area – responsible for language comprehension. When this area is damaged, these people not only do not understand language, they also can’t produce it well anymore because of that. Instead of “I love cheese” they would say something like “I live love low cheek cheese easy peasy hey”. They are generally unable to recognize any problem with their speech.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The unique role of Wernicke’s area in processing speech has been demoted as much wider areas in the temporal lobe are also involved in this process: the superior temporal gyrus, the inferior frontal gyrus, the middle temporal gyrus and ‘deeper’ areas of the brain including the putamen handle things such as syntax, semantics, associated terms in memory a.s.o. That language processing is so widely spread throughout shows language to be a fundamental function to the brain, rather than something we pick up from our surroundings.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151749&quot;&gt;&lt;/a&gt;Why you can’t hide your real emotions easily&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Facial expressions are quite universal.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The amygdala, responsible for processing emotions, is also necessary to interpret them. Other regions responsible for specific emotions (for example, the putamen for disgust) are also involved.&lt;/p&gt;
+
+&lt;p&gt;Our brains are extremely sensitive at reading faces as this proved very important to us in our development as social creatures. Also, the limbic system responsible for the involuntary expressions resulting from emotions is older than the neocortex, responsible for voluntary expressions, which means it is many times stronger.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151750&quot;&gt;&lt;/a&gt;3 ways to persuade someone to do something they wouldn’t: start by asking something small, start by asking something big or change the terms after the agreement&lt;/h2&gt;
+&lt;p&gt;Agreeing with a small request will make someone more amenable to a larger request. This is the “foot-in-the-door” technique. First they agree to borrow you money for the bus, then for a sandwich, then for a few drinks which turn into more, and in the end for a taxi.&lt;/p&gt;
+
+&lt;p&gt;Another option is to make a big request that you expect they wouldn’t agree to, and when they don’t make the initial (smaller) request that they will now feel compelled to do, in order to compensate for their rejection. For schoolchildren, this technique, called “door-in-the-face”, gives better results than the previous one.&lt;/p&gt;
+
+&lt;p&gt;The last technique is the “low-ball”, where you first have someone agree on something small, and then change a term of the agreement, like… the pay…&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151751&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Making ourselves look good to others is part of the brain normal activity&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;We want to look good to others. In an experiment the brain activities when choosing behaviors to make people like and dislike them were compared. While in the first case there were some areas which were activated, surprisingly, when trying to look good, there wasn’t any detectable difference from normal brain activity, which means that we are doing this all the time!&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Paracetamol is even sometimes effective for heartache&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Studies have shown that a relationship break-up activates the same brain regions that process physical pain.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151752&quot;&gt;&lt;/a&gt;Why are we so easily influenced by other people in our group?&lt;/h2&gt;
+&lt;p&gt;Our brains prefer to use other people as a reference in situations which are not 100% certain.&lt;/p&gt;
+
+&lt;p&gt;If you were to calculate 2+2 and you saw 10 people around you saying 5 you would not doubt to contradict them, but if you were given a slightly more uncertain task, you are statistically 75% inclined to go with their answer even if you think yours is the correct one.&lt;/p&gt;
+
+&lt;p&gt;This phenomenon also contributes to the bystander effect, where people are unlikely to intervene if there are others around who also do not intervene.&lt;/p&gt;
+
+&lt;p&gt;People conform to the group.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151753&quot;&gt;&lt;/a&gt;Would a group made of representatives of each possible stance regarding a subject such as legalization of prostitution reach a middle-ground solution?&lt;/h2&gt;
+&lt;p&gt;You would expect that but the opposite is actually true: they will often adopt a more extreme conclusion than individual members alone. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;People in a group will adopt even more extreme views than when alone&lt;/span&gt;&lt;/strong&gt;. This phenomenon is known as group polarization.&lt;/p&gt;
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;&quot;So we agree prostitution shouldn’t be legalized. It should be an arrestable offence.&lt;/h5&gt;
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Arrestable? No, ten years jail!&lt;/h5&gt;
+&lt;h5 style=&quot;padding-left: 30px;&quot;&gt;Ten years? Solitary confinement for life, at the minimum.&quot;&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;“Governments, the military, corporate boardrooms – what makes these immune to making ridiculous conclusions resulting from group polarization? Nothing, nothing at all”&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151754&quot;&gt;&lt;/a&gt;Why did the Nazis just follow orders?&lt;/h2&gt;
+&lt;p&gt;The famous experiment of Stanley Milgram when the majority of subjects went so far as inducing death strokes to other people because the “scientists” told them so shows that most of us tend to follow orders without critical thinking. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;This might be evolutionarily explained by the efficacy of following orders rather than sitting and analyzing them or fighting about who is the boss.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151755&quot;&gt;&lt;/a&gt;Why being part of a group causes aggression&lt;/h2&gt;
+&lt;p&gt;Our brain compels us to form groups and turn on those who threaten them. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;The areas of the brain activated when people have to deal with being part of a group are the same areas associated with processing the “personal self”&lt;/span&gt;&lt;/strong&gt;. Any threat to your group is then essentially a threat to yourself. And most threats to your group come from .. other competing groups. The infamous Stanford imprisonment experiment showed that at an unexpected degree.&lt;/p&gt;
+
+&lt;p&gt;But the threat to the group can also come from inside. If someone behaves a little differently, he can be marginalized. In school this happens a lot: someone gets a new haircut and he is endlessly mocked.&lt;/p&gt;
+
+&lt;p&gt;Even if someone from another group doesn’t pose any threat to us, they can sometimes be vilified. Take for example the poor, homeless, victims of assault. Where does this lack of empathy come from? &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;It is harder to empathize with someone if you don’t experience the same feeling they do, if the area in the brain which helps empathy (mainly the supramarginal gyrus) is affected, or if you aren’t given enough time to think about it.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151756&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;People are far more likely to blame a victim they cannot help or if they were told they were not compensated later&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The conception that the world is fair is ingrained in our brains as it helps us to work in a group (bad behaviour is punished and good behaviour rewarded) and makes us feel in control with what happens to us.&lt;/p&gt;
+
+&lt;p&gt;Thus, when something which actually is unfair happens (like someone getting sick), one way to escape the terrible thought of the world’s cruelty is to say that the person is to blame.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151757&quot;&gt;&lt;/a&gt;People are far more likely to blame a victim they strongly identify with&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The idea that unfair things can happen to you is so scary that it is more comforting to blame it on that person.&lt;/p&gt;
+
+&lt;p&gt;“Despite all the inclinations towards being sociable and friendly, our brain is so concerned with preserving a sense of identity and peace of mind that it makes us willing to screw over anyone that could endanger this.”&lt;/p&gt;
+&lt;h1 id=&quot;issues&quot;&gt;8. How do mental health problems come about&lt;/h1&gt;
+&lt;p&gt;What is the difference between neurological and mental problems? The first are due to physical problems in the brain, such as damage to the hippocampus causing amnesia; in the second the brain is not damaged but it behaves in unhelpful ways.&lt;/p&gt;
+
+&lt;p&gt;There is a strong cultural bias in defining what a mental issue is, because the the definition says that it prevents the afflicted individual to behave “normally”, and the meaning of normality changes with advances in science and with changes in society.&lt;/p&gt;
+
+&lt;p&gt;Some mental disorders, like depression, are ignored by those lucky enough not to be afflicted by them.&lt;/p&gt;
+
+&lt;p&gt;Others are created because of the powerful influence of pharmaceutical companies who like to have new ailments to sell medication for.&lt;/p&gt;
+&lt;h2&gt;&lt;span style=&quot;color: #658508;&quot;&gt;&lt;a name=&quot;_Toc490151758&quot;&gt;&lt;/a&gt;Being constantly angry and restless might be a sign of depression especially for men&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Other manifestations of depression are anxiety, despair, emptiness, lack of emotion.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151759&quot;&gt;&lt;/a&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Depression is a very real, debilitating condition, in which the brain is altered&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;At the brain level, we can see:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;problems with serotonin, which also cause sleep disruption, enhancing the vicious circle by making the person tired and not feeling in control over her life&lt;/li&gt;
+	&lt;li&gt;increased activity in some regions of the brain such as the anterior cingulate cortex, which has many functions, or the hypothalamic axis which regulates responses to stress – pain is enhanced and the stress response is stronger than normal.&lt;/li&gt;
+	&lt;li&gt;decreased neuroplasticity (important in learning)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;People with depression pay more attention to negative stimuli.&lt;/p&gt;
+
+&lt;p&gt;While some people do seem to develop depression out of the blue, for many it’s a consequence of too much time being hammered by life.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151760&quot;&gt;&lt;/a&gt;If someone committed suicide means they are selfish, otherwise how could they have done this to their family?&lt;/h2&gt;
+&lt;p&gt;The modifications in the depressed brain alter the patterns of thinking so a depressed person’s self-image might be so low that they believe their families/friends/fans would be better off without them, that their suicide would be a form of generosity.&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151761&quot;&gt;&lt;/a&gt;Depression can also contribute to success&lt;/h2&gt;
+&lt;p&gt;Overcoming it requires considerable will-power and effort, which can be channelled in interesting directions. Take for example the ‘tears of the clown’ cliché. Charlie Chaplin. Besides comics, think about Van Gogh.&lt;/p&gt;
+&lt;h2&gt;Nervous break-down is a strategy to cope with stress&lt;/h2&gt;
+&lt;p&gt;A nervous break-down means a person is no longer able to function as normal after a high-stress situation. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Many argue the brain induces breakdown to stop stress escalating to the point where lasting damage can occur.&lt;/span&gt; &lt;/strong&gt;Thankfully, breakdowns are typically short-lived. However, people often retain a sensitivity to stress and thus the chance of relapse exists.&lt;/p&gt;
+
+&lt;p&gt;“Some people are more susceptible: those with difficult situations, those prone to paranoia or anxiety, even those with tremendous self-confidence can be brought low very quickly (if you’re very self-confident, losing control due to stress could undermine your whole sense of self, causing immense stress)”&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151762&quot;&gt;&lt;/a&gt;Why is it so hard to quit drugs&lt;/h2&gt;
+&lt;p&gt;Drugs of abuse (cocaine, heroin, nicotine, amphetamines, even alcohol) are powerful analgesics that suppress normal levels of pain by stimulating the brain’s endorphin, providing intense euphoria.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, pain exists for a reason, so the brain responds by increasing the potency of pain detection. So users take more opiates to shut it down again and the cycle continues. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;When the drug is taken away, the user is left with a super-enhanced pain detection system!&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Excessive drug use suppresses activity of the prefrontal cortex and impulse-control areas. These modifications do not go away after the drug is not used anymore; they might fade away but they endure.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a name=&quot;_Toc490151763&quot;&gt;&lt;/a&gt;What causes the brain to hallucinate or to be deluded?&lt;/h2&gt;
+&lt;p&gt;Hallucinations and delusions are the most common type of psychosis, which is one of the most common occurrences of mental health problems.&lt;/p&gt;
+
+&lt;p&gt;Depression, drugs, alcohol, stress and nervous breakdowns can end up triggering hallucinations and delusions in the overtaxed brain. There are other issues which can cause them, such as low blood sugar, bipolar disorder, lack of sleep or harder stuff like dementia, Parkinson, brain tumours, HIV, syphilis, Lyme, multiple sclerosis.&lt;/p&gt;
+
+&lt;p&gt;The most common psychosis is made up by aural hallucinations, aka hearing voices. You can hear voices of other people talking &lt;em&gt;as you&lt;/em&gt; (in the first person), &lt;em&gt;with you&lt;/em&gt; (second person), or &lt;em&gt;about you&lt;/em&gt; (third person). They are usually derogatory. Persistent derogatory third-person hallucinations indicate schizophrenia.&lt;/p&gt;
+
+&lt;p&gt;Hallucinations seem to occur when the brain cannot distinguish anymore between neurological activity generated by the external world and the one caused by internal one. &lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;People end up perceiving internal monologue as an actual person speaking, which can happen because both internal musings and hearing spoken words activate the auditory cortex and associated language-processing areas.&lt;/span&gt;&lt;/strong&gt; In third person hallucinating patients these areas have reduced volumes of grey matter, which does all the processing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;Our brain’s ability to differentiate between internal and external occurrences is derived from multiple areas acting together:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Subcortical areas, predominantly the thalamus, which provide raw information from the senses&lt;/li&gt;
+	&lt;li&gt;This ends up in the sensory cortex&lt;/li&gt;
+	&lt;li&gt;This connects to areas such as that of the:
+&lt;ul&gt;
+	&lt;li&gt;prefrontal cortex (decisions and higher functions, thinking)&lt;/li&gt;
+	&lt;li&gt;premotor cortex (producing and overseeing conscious movement)&lt;/li&gt;
+	&lt;li&gt;Cerebellum (fine motor control and maintenance)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Compromised connections with these areas would mean more internally-generated information is perceived as genuine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;A well-known type of dellusion is Capgras, where people believe someone close to them has been replaced by an identical impostor. Usually when you see someone close you have some feelings towards them. Damage to areas of the frontal lobes can cause these feelings not to appear. The brain will then assume the person seen is not the real person, but a substitute, because otherwise they would have felt something.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #658508;&quot;&gt;This is the mechanism of delusion: the brain expects something to happen, this doesn’t, but instead of finding a likely reason, they find out a ridiculous, unlikely one, incompatible with the person’s existing belief system and views.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“The experience of a devout evangelist from the American Bible Belt saying he can hear the voice of God is not considered a delusion. An agnostic trainee accountant from Sunderland saying she can hear the voice of God? Yes, she’ll probably be classed as delusional.”&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;Notes:&lt;/h3&gt;
+&lt;p&gt;I have excluded ideas in the book that I didn’t find enough support for, like the one that the human brain is looking for monogamous relationships, as there is no proof that people cannot be in love with more than one person at a time for example.&lt;/p&gt;
+
+&lt;p&gt;I also added my own observations.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3&gt;Sources&lt;/h3&gt;
+&lt;p&gt;Freud, Sigmund, &lt;em&gt;Civilization and its discontents,&lt;/em&gt; 1930&lt;/p&gt;
+
+&lt;p&gt;Rettner, Rachael, &lt;em&gt;Personality Predicted by Size of Different Brain Regions, &lt;/em&gt;June 23, 2010, https://www.livescience.com/8343-personality-predicted-size-brain-regions.html&lt;/p&gt;
+&lt;h1 class=&quot;h1&quot;&gt;&lt;/h1&gt;</content><author><name></name></author><category term="psychology" /><category term="neuroscience" /><category term="food" /><category term="mental ilness" /><category term="empathy" /><category term="group thinking" /><category term="mental illusions" /><summary type="html">Is anger really bad? How do we become smarter? Why you can't trust group decisions? Understanding how the brain works will make you more able to use it in the direction you want. Mind controls Memory Fear Intelligence Senses Personality Group influence Mental health problems 1.  mind controls We are programmed to walk There are nerve clusters in our spine that control our locomotion without any conscious involvement. This may explain why an unconscious person can still wander about.</summary></entry><entry><title type="html">The Idiot’s Guide to Github Pages with Jekyll for custom domains</title><link href="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html" rel="alternate" type="text/html" title="The Idiot's Guide to Github Pages with Jekyll for custom domains" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll</id><content type="html" xml:base="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html">&lt;ol&gt;
+  &lt;li&gt;jekyll new &amp;lt;blogname&amp;gt;; inside that folder, create a folder “docs”&lt;/li&gt;
   &lt;li&gt;initiate it as a repository&lt;/li&gt;
   &lt;li&gt;in _config.yml add:
 &lt;code&gt;
@@ -12,12 +302,4 @@ The Idiot’s Guide to Github Pages with Jekyll for custom domains&lt;/p&gt;
   &lt;li&gt;jekyll build –destination ./docs –watch&lt;/li&gt;
   &lt;li&gt;add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.&lt;/li&gt;
   &lt;li&gt;in Github settings, point github pages to docs&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">#H1 The Idiot’s Guide to Github Pages with Jekyll for custom domains jekyll new &amp;lt;blogname&amp;gt;pacda inside that folder, create a folder “docs” initiate it as a repository in _config.yml add: exclude: - [CNAME] keep_files: [CNAME] jekyll build –destination ./docs –watch add Gemfile and Gemfile.lock to gitignore. Add all. commit. push. in Github settings, point github pages to docs</summary></entry></feed>
+&lt;/ol&gt;</content><author><name></name></author><category term="tech" /><category term="github" /><category term="jekyll" /><category term="blog" /><summary type="html">jekyll new &amp;lt;blogname&amp;gt;; inside that folder, create a folder “docs” initiate it as a repository in _config.yml add: exclude: - [CNAME] keep_files: [CNAME] jekyll build –destination ./docs –watch add Gemfile and Gemfile.lock to gitignore. Add all. commit. push. in Github settings, point github pages to docs</summary></entry></feed>

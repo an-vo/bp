@@ -2,11 +2,10 @@
 layout: post
 title:  "The Idiot's Guide to Github Pages with Jekyll for custom domains"
 date:   2017-10-08 15:12:29 +0300
-categories: tech github jekyll blog
+tags: [tech, github, jekyll, blog]
+categories: tutorial
 ---
-#H1
-The Idiot's Guide to Github Pages with Jekyll for custom domains
-1. jekyll new \<blogname\>pacda inside that folder, create a folder "docs"
+1. jekyll new \<blogname\>; inside that folder, create a folder "docs"
 2. initiate it as a repository 
 3. in _config.yml add:
 <code>
@@ -16,18 +15,3 @@ The Idiot's Guide to Github Pages with Jekyll for custom domains
 4. jekyll build --destination ./docs --watch
 5. add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.
 6. in Github settings, point github pages to docs
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
