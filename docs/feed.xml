@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="brainspired.org/feed.xml" rel="self" type="application/atom+xml" /><link href="brainspired.org/" rel="alternate" type="text/html" /><updated>2017-10-29T22:31:17+02:00</updated><id>brainspired.org/</id><title type="html">Brainspired</title><subtitle>Human Sciences, Humanities, Health, Tech Book summaries, Articles, personal stuff and whatever else comes to my mind
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="brainspired.org/feed.xml" rel="self" type="application/atom+xml" /><link href="brainspired.org/" rel="alternate" type="text/html" /><updated>2017-10-29T22:36:34+02:00</updated><id>brainspired.org/</id><title type="html">Brainspired</title><subtitle>Human Sciences, Humanities, Health, Tech Book summaries, Articles, personal stuff and whatever else comes to my mind
 </subtitle><entry><title type="html">The Idiot Brain by Dean Burnett</title><link href="brainspired.org/summary/2017/10/08/the-idiot-brain.html" rel="alternate" type="text/html" title="The Idiot Brain by Dean Burnett" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/summary/2017/10/08/the-idiot-brain</id><content type="html" xml:base="brainspired.org/summary/2017/10/08/the-idiot-brain.html">&lt;h3 class=&quot;graf graf--h3&quot;&gt;Is anger really bad? How do we become smarter? Why you can't trust group decisions?&lt;/h3&gt;
 &lt;h3 class=&quot;graf graf--h3&quot;&gt;Understanding how the brain works will make you more able to use it in the direction you want.&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;#mind_controls&quot;&gt;Mind controls&lt;/a&gt;
-&lt;a href=&quot;#memory&quot;&gt;Memory&lt;/a&gt;
-&lt;a href=&quot;#fear&quot;&gt;Fear&lt;/a&gt;
-&lt;a href=&quot;#intelligence&quot;&gt;Intelligence&lt;/a&gt;
-&lt;a href=&quot;#senses&quot;&gt;Senses&lt;/a&gt;
-&lt;a href=&quot;#personality&quot;&gt;Personality&lt;/a&gt;
-&lt;a href=&quot;#influence&quot;&gt;Group influence&lt;/a&gt;
-&lt;a href=&quot;#issues&quot;&gt;Mental health problems&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#mind_controls&quot;&gt;Mind controls&lt;/a&gt; |
+&lt;a href=&quot;#memory&quot;&gt; Memory&lt;/a&gt; |
+&lt;a href=&quot;#fear&quot;&gt; Fear&lt;/a&gt; | 
+&lt;a href=&quot;#intelligence&quot;&gt; Intelligence&lt;/a&gt; |
+&lt;a href=&quot;#senses&quot;&gt; Senses&lt;/a&gt; |
+&lt;a href=&quot;#personality&quot;&gt; Personality&lt;/a&gt; |
+&lt;a href=&quot;#influence&quot;&gt; Group influence&lt;/a&gt; |
+&lt;a href=&quot;#issues&quot;&gt; Mental health problems&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;&lt;/h1&gt;
 &lt;!--more--&gt;
 &lt;h1 id=&quot;mind_controls&quot;&gt;1.  mind controls&lt;/h1&gt;
@@ -291,7 +291,7 @@
 &lt;p&gt;Freud, Sigmund, &lt;em&gt;Civilization and its discontents,&lt;/em&gt; 1930&lt;/p&gt;
 
 &lt;p&gt;Rettner, Rachael, &lt;em&gt;Personality Predicted by Size of Different Brain Regions, &lt;/em&gt;June 23, 2010, https://www.livescience.com/8343-personality-predicted-size-brain-regions.html&lt;/p&gt;
-&lt;h1 class=&quot;h1&quot;&gt;&lt;/h1&gt;</content><author><name></name></author><category term="psychology" /><category term="neuroscience" /><category term="food" /><category term="mental ilness" /><category term="empathy" /><category term="group thinking" /><category term="mental illusions" /><summary type="html">Is anger really bad? How do we become smarter? Why you can't trust group decisions? Understanding how the brain works will make you more able to use it in the direction you want. Mind controls Memory Fear Intelligence Senses Personality Group influence Mental health problems 1.  mind controls We are programmed to walk There are nerve clusters in our spine that control our locomotion without any conscious involvement. This may explain why an unconscious person can still wander about.</summary></entry><entry><title type="html">The Idiot’s Guide to Github Pages with Jekyll for custom domains</title><link href="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html" rel="alternate" type="text/html" title="The Idiot's Guide to Github Pages with Jekyll for custom domains" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll</id><content type="html" xml:base="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html">&lt;ol&gt;
+&lt;h1 class=&quot;h1&quot;&gt;&lt;/h1&gt;</content><author><name></name></author><category term="psychology" /><category term="neuroscience" /><category term="food" /><category term="mental ilness" /><category term="empathy" /><category term="group thinking" /><category term="mental illusions" /><summary type="html">Is anger really bad? How do we become smarter? Why you can't trust group decisions? Understanding how the brain works will make you more able to use it in the direction you want. Mind controls | Memory | Fear | Intelligence | Senses | Personality | Group influence | Mental health problems 1.  mind controls We are programmed to walk There are nerve clusters in our spine that control our locomotion without any conscious involvement. This may explain why an unconscious person can still wander about.</summary></entry><entry><title type="html">The Idiot’s Guide to Github Pages with Jekyll for custom domains</title><link href="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html" rel="alternate" type="text/html" title="The Idiot's Guide to Github Pages with Jekyll for custom domains" /><published>2017-10-08T15:12:29+03:00</published><updated>2017-10-08T15:12:29+03:00</updated><id>brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll</id><content type="html" xml:base="brainspired.org/tutorial/2017/10/08/github-pages-and-jekyll.html">&lt;ol&gt;
   &lt;li&gt;jekyll new &amp;lt;blogname&amp;gt;; inside that folder, create a folder “docs”&lt;/li&gt;
   &lt;li&gt;initiate it as a repository&lt;/li&gt;
   &lt;li&gt;in _config.yml add:

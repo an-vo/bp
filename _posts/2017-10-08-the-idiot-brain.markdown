@@ -7,14 +7,14 @@ categories: summary
 ---
 <h3 class="graf graf--h3">Is anger really bad? How do we become smarter? Why you can't trust group decisions?</h3>
 <h3 class="graf graf--h3">Understanding how the brain works will make you more able to use it in the direction you want.</h3>
-<a href="#mind_controls">Mind controls</a>
-<a href="#memory">Memory</a>
-<a href="#fear">Fear</a>
-<a href="#intelligence">Intelligence</a>
-<a href="#senses">Senses</a>
-<a href="#personality">Personality</a>
-<a href="#influence">Group influence</a>
-<a href="#issues">Mental health problems</a>
+<a href="#mind_controls">Mind controls</a> |
+<a href="#memory"> Memory</a> |
+<a href="#fear"> Fear</a> | 
+<a href="#intelligence"> Intelligence</a> |
+<a href="#senses"> Senses</a> |
+<a href="#personality"> Personality</a> |
+<a href="#influence"> Group influence</a> |
+<a href="#issues"> Mental health problems</a>
 <h1></h1>
 <!--more-->
 <h1 id="mind_controls">1.  mind controls</h1>
