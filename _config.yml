@@ -14,17 +14,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brainspired
-email: brainspiredd@gmail.com
+
 description: > # this means to ignore newlines until "baseurl:"
   Human Sciences, Humanities, Health, Tech
   Book summaries, Articles, personal stuff and whatever else comes to my mind
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "brainspired.org" # the base hostname & protocol for your site, e.g. http://example.com
+email: shapespin@gmail.com
+author: Andra Liana Voinea
+street_address: 
+city: 
+state: 
+zip_code:
+country:
+phone: 
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
 
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: massively_jekyll_theme
 gems:
   - jekyll-feed
 exclude:
