@@ -45,7 +45,7 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: massively_jekyll_theme
 gems:
   - jekyll-feed
 exclude:
