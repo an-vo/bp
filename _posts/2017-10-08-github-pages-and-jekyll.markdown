@@ -12,6 +12,6 @@ categories: tutorial
 	exclude: - [CNAME]
 	keep_files: [CNAME]
 </code>
-4. jekyll build --destination ./docs --watch
+4. in config.yml add: destination: docs or (otherwise everytime you build you have to add <code>--destination ./docs </code> to your build command
 5. add Gemfile and Gemfile.lock to gitignore. Add all. commit. push.
 6. in Github settings, point github pages to docs
